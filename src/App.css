@@ -1,0 +1,26 @@
+@font-face {
+  font-family: Light;
+  src: url("/public/fonts/Montserrat-Light.ttf");
+}
+
+@font-face {
+  font-family: Bold;
+  src: url("/public/fonts/Montserrat-Bold.ttf");
+}
+
+@font-face {
+  font-family: Medium;
+  src: url("/public/fonts/Montserrat-Medium.ttf");
+}
+
+p {
+  font-family: Light;
+}
+
+.b {
+  font-family: Bold;
+}
+
+.m {
+  font-family: Medium;
+}
