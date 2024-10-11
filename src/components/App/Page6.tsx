@@ -1,8 +1,8 @@
 export default function Page6() {
   return (
-    <div className="text-[#c4d702] bg-[url('/bg.png')] bg-cover h-screen flex flex-col justify-center items-center pt-36 md:pt-0">
+    <div className="text-[#c4d702] bg-[url('/bg.png')] bg-cover h-[140vh] flex flex-col justify-center items-center pt-36 md:pt-0">
       <div className="flex justify-center pb-20 md:pb-52">
-        <p className="text-3xl md:text-6xl font-bold b pt-20 md:pt-0">
+        <p className="text-3xl md:text-6xl font-bold b pt-0 md:pt-0">
           TESTIMONIALS
         </p>
       </div>
@@ -37,7 +37,7 @@ export default function Page6() {
         </div>
         <div className="grid gap-8 pb-20 md:pb-0">
           <p className="text-xl md:text-4xl font-semibold b">DIANA CRUZ</p>
-          <p className="text-sm md:text-lg pb-20 md:pb-0">
+          <p className="text-sm md:text-lg pb-0 md:pb-0 ">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores qui
             suscipit, aspernatur odit, animi hic dignissimos eos magni deserunt,
             laboriosam iste libero quas iusto? Laborum eos nesciunt deleniti
